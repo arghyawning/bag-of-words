@@ -1,5 +1,9 @@
 # HSL: Assignment 1
 
+> Arghya Roy
+> (2021115008)
+<br>
+
 1. Provide results of the Bag of Words exercise, separately for the two texts discussed in class (few chapters each of two autobiographies).
     1. The Autobiography of an Indian princess: Memoirs of Maharani Sunity Devi
     2. Vijayaraje Scindia, Manohar Malgonkar - The Last Maharani of Gwalior: An Autobiography
